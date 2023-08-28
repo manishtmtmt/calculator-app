@@ -59,7 +59,7 @@ function calculatorOperation() {
       result = prev - current;
       break;
 
-    case "*":
+    case "x":
       result = prev * current;
       break;
 
